@@ -118,6 +118,14 @@ This project is licensed under the MIT License.
 
 ---
 
+## 👥 Core Collaborators
+- **Harsh** ([Harshyadav5002](https://github.com/Harshyadav5002)) - Lead Developer
+- **Aryan Yadav** ([Aryanyadav05](https://github.com/Aryanyadav05))
+- **Ananya** ([Ananya12-web](https://github.com/Ananya12-web))
+- **Dev** ([Dev03-58](https://github.com/Dev03-58))
+
+---
+
 ## 👤 Author
 Developed by **HARSH**
 [GitHub: Harshyadav5002](https://github.com/Harshyadav5002)
