@@ -1,0 +1,6 @@
+[
+    { "id": "882739485012", "upi": "USER@PAY#123", "status": "Safe" },
+    { "id": "119283746505", "upi": "JACK!SHIELD$8", "status": "Safe" },
+    { "id": "993847562019", "upi": "FRAUD*BEYOND^0", "status": "Fraud" },
+    { "id": "772635481023", "upi": "TEST%VALUE&99", "status": "Safe" }
+]

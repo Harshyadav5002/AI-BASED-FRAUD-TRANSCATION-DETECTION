@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google/stitch-sdk": "^0.1.0",
+    "@stitches/core": "^1.2.8"
+  }
+}

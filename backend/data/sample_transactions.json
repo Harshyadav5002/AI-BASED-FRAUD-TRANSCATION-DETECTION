@@ -1,0 +1,2320 @@
+[
+  {
+    "transactionId": "432342887450",
+    "upiId": "PBOWIDWD2LNN",
+    "userId": "user_101",
+    "amount": 967.67,
+    "date": "2026-05-04T04:11:45.433Z",
+    "location": {
+      "ip": "178.251.83.186",
+      "country": "Russia",
+      "lat": 76.8739,
+      "long": 48.3214
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 1"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "764655191660",
+    "upiId": "FMKJBGYPL#FR",
+    "userId": "user_102",
+    "amount": 266.49,
+    "date": "2026-05-01T06:52:55.271Z",
+    "location": {
+      "ip": "253.222.36.109",
+      "country": "China",
+      "lat": -20.7659,
+      "long": -179.2129
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 2"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "888655687213",
+    "upiId": "!6O!J!7L#SQ%",
+    "userId": "user_103",
+    "amount": 658.43,
+    "date": "2026-04-26T01:15:29.671Z",
+    "location": {
+      "ip": "84.143.61.59",
+      "country": "Germany",
+      "lat": 77.5347,
+      "long": -154.2541
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 3"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "065975412599",
+    "upiId": "7V315I@DOH5X",
+    "userId": "user_104",
+    "amount": 434.18,
+    "date": "2026-04-30T15:24:37.580Z",
+    "location": {
+      "ip": "119.92.109.82",
+      "country": "Russia",
+      "lat": 1.5917,
+      "long": -88.1275
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 4"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "202494291139",
+    "upiId": "S4SC#J#HZI#R",
+    "userId": "user_105",
+    "amount": 433.57,
+    "date": "2026-04-26T16:16:33.265Z",
+    "location": {
+      "ip": "250.133.226.58",
+      "country": "India",
+      "lat": 80.6909,
+      "long": -17.9127
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 5"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "102646946614",
+    "upiId": "QY8M4C5T4UXH",
+    "userId": "user_106",
+    "amount": 1942.25,
+    "date": "2026-05-02T13:54:35.738Z",
+    "location": {
+      "ip": "195.140.167.148",
+      "country": "Nigeria",
+      "lat": -6.1298,
+      "long": -48.6379
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 6"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "665956588763",
+    "upiId": "AMB@WJ1#6QZ%",
+    "userId": "user_107",
+    "amount": 61.23,
+    "date": "2026-04-26T00:24:47.515Z",
+    "location": {
+      "ip": "232.204.96.149",
+      "country": "Brazil",
+      "lat": 20.7022,
+      "long": -12.1918
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 7"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "412462599331",
+    "upiId": "MVVE1G&Q@TR!",
+    "userId": "user_108",
+    "amount": 544.54,
+    "date": "2026-04-29T22:23:17.054Z",
+    "location": {
+      "ip": "15.225.159.130",
+      "country": "UK",
+      "lat": 73.1664,
+      "long": -73.3264
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 8"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "275700101355",
+    "upiId": "E@6&O5C9#A%*",
+    "userId": "user_109",
+    "amount": 916.98,
+    "date": "2026-04-26T09:46:38.485Z",
+    "location": {
+      "ip": "211.206.127.4",
+      "country": "Brazil",
+      "lat": 20.2503,
+      "long": 175.4208
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 9"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "711532338141",
+    "upiId": "^@D51U*SG2&$",
+    "userId": "user_110",
+    "amount": 1585.49,
+    "date": "2026-05-02T23:13:51.608Z",
+    "location": {
+      "ip": "62.124.189.212",
+      "country": "China",
+      "lat": 78.0897,
+      "long": 124.6017
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 10"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "780241097312",
+    "upiId": "8A63GOZGMVN^",
+    "userId": "user_111",
+    "amount": 1954.62,
+    "date": "2026-04-29T11:31:03.885Z",
+    "location": {
+      "ip": "119.14.101.246",
+      "country": "Russia",
+      "lat": 9.5373,
+      "long": 90.958
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 11"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "249005919371",
+    "upiId": "%NT@PQW2A##U",
+    "userId": "user_112",
+    "amount": 3898.14,
+    "date": "2026-05-06T11:37:30.446Z",
+    "location": {
+      "ip": "169.44.156.11",
+      "country": "Nigeria",
+      "lat": 58.5458,
+      "long": -118.2538
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 12"
+    },
+    "transactionType": "Subscription",
+    "isFraud": true,
+    "fraudReason": "Anomalous location and OS"
+  },
+  {
+    "transactionId": "700946331902",
+    "upiId": "B62DL9M45SMD",
+    "userId": "user_113",
+    "amount": 1414.73,
+    "date": "2026-04-28T04:08:23.041Z",
+    "location": {
+      "ip": "100.145.42.141",
+      "country": "Australia",
+      "lat": -32.645,
+      "long": 20.0647
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 13"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "484784353913",
+    "upiId": "WD%^H8WAI4@&",
+    "userId": "user_114",
+    "amount": 1140.41,
+    "date": "2026-04-30T01:36:09.306Z",
+    "location": {
+      "ip": "177.87.77.208",
+      "country": "Japan",
+      "lat": -74.1282,
+      "long": 60.7743
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 14"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "396907480522",
+    "upiId": "CQ@1RQ5ZT5D5",
+    "userId": "user_115",
+    "amount": 1027.48,
+    "date": "2026-05-04T16:38:41.161Z",
+    "location": {
+      "ip": "135.56.182.158",
+      "country": "UK",
+      "lat": 89.6238,
+      "long": -52.7484
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 15"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "569307098751",
+    "upiId": "O9U9*UNWQ51N",
+    "userId": "user_116",
+    "amount": 11322.61,
+    "date": "2026-04-30T13:01:03.692Z",
+    "location": {
+      "ip": "32.1.122.55",
+      "country": "Nigeria",
+      "lat": 12.9771,
+      "long": -11.1885
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 16"
+    },
+    "transactionType": "Subscription",
+    "isFraud": true,
+    "fraudReason": "Large transfer to new recipient"
+  },
+  {
+    "transactionId": "010156283165",
+    "upiId": "K@$!QQ!KVNL^",
+    "userId": "user_117",
+    "amount": 614.11,
+    "date": "2026-04-29T18:12:50.524Z",
+    "location": {
+      "ip": "141.205.207.122",
+      "country": "UK",
+      "lat": -15.8366,
+      "long": -74.8029
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 17"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "291899054352",
+    "upiId": "8CHFT#IWJ8I3",
+    "userId": "user_118",
+    "amount": 1794.34,
+    "date": "2026-04-28T01:49:13.569Z",
+    "location": {
+      "ip": "201.43.123.179",
+      "country": "Japan",
+      "lat": -65.6051,
+      "long": -137.2281
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 18"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "043749245551",
+    "upiId": "54Y0J3!CZVTS",
+    "userId": "user_119",
+    "amount": 1355.52,
+    "date": "2026-04-30T23:02:37.534Z",
+    "location": {
+      "ip": "85.56.14.106",
+      "country": "Australia",
+      "lat": -36.9088,
+      "long": 117.2038
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 19"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "850411847330",
+    "upiId": "!Q8HN*3&GEWQ",
+    "userId": "user_120",
+    "amount": 1317.54,
+    "date": "2026-05-02T06:59:38.505Z",
+    "location": {
+      "ip": "116.247.127.151",
+      "country": "Russia",
+      "lat": -68.2858,
+      "long": 100.3709
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 20"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "832513839726",
+    "upiId": "$DD@F!$BR30*",
+    "userId": "user_121",
+    "amount": 1651.81,
+    "date": "2026-04-26T23:51:19.107Z",
+    "location": {
+      "ip": "27.68.24.251",
+      "country": "Germany",
+      "lat": 20.0607,
+      "long": 76.121
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 21"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "780621729436",
+    "upiId": "A9ATB95D%R21",
+    "userId": "user_122",
+    "amount": 770.91,
+    "date": "2026-05-05T20:36:25.098Z",
+    "location": {
+      "ip": "152.138.8.5",
+      "country": "Canada",
+      "lat": -4.3569,
+      "long": -28.8449
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 22"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "158544179902",
+    "upiId": "Y!SM$9I7UD@T",
+    "userId": "user_123",
+    "amount": 1126.79,
+    "date": "2026-05-01T08:49:03.726Z",
+    "location": {
+      "ip": "104.161.167.202",
+      "country": "India",
+      "lat": -56.3667,
+      "long": -25.4059
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 23"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "893232578613",
+    "upiId": "S6&LOTK7R8G2",
+    "userId": "user_124",
+    "amount": 1420.58,
+    "date": "2026-04-30T06:15:19.630Z",
+    "location": {
+      "ip": "171.61.46.44",
+      "country": "Australia",
+      "lat": 26.4366,
+      "long": -33.2112
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 24"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "853625691156",
+    "upiId": "$2JI*REH2$0N",
+    "userId": "user_125",
+    "amount": 1329.97,
+    "date": "2026-05-01T00:09:09.061Z",
+    "location": {
+      "ip": "184.126.211.72",
+      "country": "UK",
+      "lat": 62.2827,
+      "long": -144.4901
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 25"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "429791654871",
+    "upiId": "!ZKHN7!%E%FI",
+    "userId": "user_126",
+    "amount": 13402.19,
+    "date": "2026-04-30T06:11:59.531Z",
+    "location": {
+      "ip": "147.10.178.176",
+      "country": "Nigeria",
+      "lat": -42.2743,
+      "long": 152.5431
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 26"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Anomalous location and OS"
+  },
+  {
+    "transactionId": "181929437149",
+    "upiId": "09M3TJMY5UL!",
+    "userId": "user_127",
+    "amount": 1417.11,
+    "date": "2026-04-30T11:17:07.976Z",
+    "location": {
+      "ip": "223.144.77.96",
+      "country": "Russia",
+      "lat": 9.6471,
+      "long": 128.8751
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 27"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "014532975403",
+    "upiId": "5095YEZRMIR%",
+    "userId": "user_128",
+    "amount": 611.65,
+    "date": "2026-04-26T07:42:42.358Z",
+    "location": {
+      "ip": "144.121.85.242",
+      "country": "Germany",
+      "lat": 55.4708,
+      "long": -83.3323
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 28"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "396834568098",
+    "upiId": "QVNVAP5@PLRP",
+    "userId": "user_129",
+    "amount": 1160.32,
+    "date": "2026-05-01T09:06:17.548Z",
+    "location": {
+      "ip": "33.250.169.240",
+      "country": "Russia",
+      "lat": -46.3975,
+      "long": 155.9563
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 29"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "856373814654",
+    "upiId": "A25JRLT9!RS8",
+    "userId": "user_130",
+    "amount": 422.35,
+    "date": "2026-04-29T22:43:22.214Z",
+    "location": {
+      "ip": "189.114.89.175",
+      "country": "Russia",
+      "lat": -62.0108,
+      "long": 61.8786
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 30"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "799804474130",
+    "upiId": "K!GX1HTL0*Z^",
+    "userId": "user_131",
+    "amount": 3751.56,
+    "date": "2026-04-29T20:53:02.441Z",
+    "location": {
+      "ip": "159.108.152.196",
+      "country": "France",
+      "lat": 5.8981,
+      "long": 2.3885
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 31"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "High value from high-risk IP"
+  },
+  {
+    "transactionId": "730639989340",
+    "upiId": "3P&A$VE1QTF@",
+    "userId": "user_132",
+    "amount": 3582.58,
+    "date": "2026-04-28T09:00:02.398Z",
+    "location": {
+      "ip": "43.37.175.247",
+      "country": "Brazil",
+      "lat": 7.694,
+      "long": -107.1438
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 32"
+    },
+    "transactionType": "Credit",
+    "isFraud": true,
+    "fraudReason": "Rapid succession of high-value purchases"
+  },
+  {
+    "transactionId": "612591371718",
+    "upiId": "S$&!PAKU05SD",
+    "userId": "user_133",
+    "amount": 498.17,
+    "date": "2026-04-29T19:19:18.704Z",
+    "location": {
+      "ip": "15.192.3.212",
+      "country": "India",
+      "lat": -39.2869,
+      "long": -154.6013
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 33"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "989895585825",
+    "upiId": "IO$Y2JYULPGN",
+    "userId": "user_134",
+    "amount": 1606.38,
+    "date": "2026-05-02T15:32:02.739Z",
+    "location": {
+      "ip": "157.225.63.194",
+      "country": "USA",
+      "lat": -40.1537,
+      "long": 79.7994
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 34"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "523639372809",
+    "upiId": "JRF*8ZS!66U8",
+    "userId": "user_135",
+    "amount": 1565.22,
+    "date": "2026-05-04T20:49:20.051Z",
+    "location": {
+      "ip": "86.215.179.198",
+      "country": "Japan",
+      "lat": -36.2366,
+      "long": -102.1675
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 35"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "360124821111",
+    "upiId": "D*K0IQM&%2*#",
+    "userId": "user_136",
+    "amount": 200.65,
+    "date": "2026-04-29T05:41:08.769Z",
+    "location": {
+      "ip": "52.113.171.25",
+      "country": "Nigeria",
+      "lat": -25.609,
+      "long": 6.533
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 36"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "353398282782",
+    "upiId": "!@ZY2U0^JRZH",
+    "userId": "user_137",
+    "amount": 324.03,
+    "date": "2026-04-30T08:18:16.643Z",
+    "location": {
+      "ip": "62.121.142.250",
+      "country": "Brazil",
+      "lat": 55.9569,
+      "long": 72.9427
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 37"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "694713147442",
+    "upiId": "!&55D3F!2^A4",
+    "userId": "user_138",
+    "amount": 14672.15,
+    "date": "2026-04-30T10:12:27.286Z",
+    "location": {
+      "ip": "12.127.59.197",
+      "country": "Nigeria",
+      "lat": -82.2947,
+      "long": -96.9331
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 38"
+    },
+    "transactionType": "Subscription",
+    "isFraud": true,
+    "fraudReason": "Rapid succession of high-value purchases"
+  },
+  {
+    "transactionId": "001509542978",
+    "upiId": "@MQ2ZGA^XDRI",
+    "userId": "user_139",
+    "amount": 8890.1,
+    "date": "2026-04-28T10:18:09.949Z",
+    "location": {
+      "ip": "178.200.74.171",
+      "country": "Nigeria",
+      "lat": -21.6181,
+      "long": 92.1183
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 39"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Anomalous location and OS"
+  },
+  {
+    "transactionId": "697520134356",
+    "upiId": "KR02AW^FVB%B",
+    "userId": "user_140",
+    "amount": 2272.31,
+    "date": "2026-05-05T15:45:20.085Z",
+    "location": {
+      "ip": "61.37.32.135",
+      "country": "Australia",
+      "lat": -45.9914,
+      "long": -143.9888
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 40"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Anomalous location and OS"
+  },
+  {
+    "transactionId": "916553334691",
+    "upiId": "^4GZG741HYB&",
+    "userId": "user_141",
+    "amount": 1358.56,
+    "date": "2026-05-06T12:24:41.535Z",
+    "location": {
+      "ip": "167.219.129.95",
+      "country": "Japan",
+      "lat": -81.0366,
+      "long": -159.0308
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 41"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "294245066839",
+    "upiId": "X^5^97CF&LY6",
+    "userId": "user_142",
+    "amount": 1054.18,
+    "date": "2026-05-06T09:47:57.980Z",
+    "location": {
+      "ip": "45.55.251.37",
+      "country": "USA",
+      "lat": -79.2261,
+      "long": 8.6176
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 42"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "347398257243",
+    "upiId": "HE56E$G44C8R",
+    "userId": "user_143",
+    "amount": 146.92,
+    "date": "2026-05-07T01:30:24.986Z",
+    "location": {
+      "ip": "51.76.65.203",
+      "country": "Germany",
+      "lat": -29.9309,
+      "long": -55.336
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 43"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "674218612690",
+    "upiId": "^5NB4G2#GOV4",
+    "userId": "user_144",
+    "amount": 1742.93,
+    "date": "2026-04-30T15:02:52.499Z",
+    "location": {
+      "ip": "100.8.112.161",
+      "country": "Australia",
+      "lat": 4.2099,
+      "long": -2.4011
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 44"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "485805073789",
+    "upiId": "WRCUA4WMSBBJ",
+    "userId": "user_145",
+    "amount": 396.57,
+    "date": "2026-04-30T10:01:35.687Z",
+    "location": {
+      "ip": "160.39.181.208",
+      "country": "Japan",
+      "lat": 30.8528,
+      "long": 164.5017
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 45"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "891845504648",
+    "upiId": "*40JZ9VN$YB1",
+    "userId": "user_146",
+    "amount": 777.03,
+    "date": "2026-04-26T03:57:07.854Z",
+    "location": {
+      "ip": "100.15.183.242",
+      "country": "France",
+      "lat": 46.1886,
+      "long": -155.7675
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 46"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "855671013023",
+    "upiId": "1RXA5XQ0KG!@",
+    "userId": "user_147",
+    "amount": 5435.6,
+    "date": "2026-04-28T15:50:13.401Z",
+    "location": {
+      "ip": "228.219.224.28",
+      "country": "Canada",
+      "lat": 40.6677,
+      "long": 144.3979
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 47"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Impossible travel speed from previous txn"
+  },
+  {
+    "transactionId": "032208485472",
+    "upiId": "TDVCRGLKBWJ%",
+    "userId": "user_148",
+    "amount": 421.18,
+    "date": "2026-05-06T03:48:01.051Z",
+    "location": {
+      "ip": "74.16.15.3",
+      "country": "France",
+      "lat": 28.201,
+      "long": -103.3507
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 48"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "770824171373",
+    "upiId": "JQ2!VD1ES!FZ",
+    "userId": "user_149",
+    "amount": 616.83,
+    "date": "2026-04-28T02:58:25.777Z",
+    "location": {
+      "ip": "215.105.129.0",
+      "country": "Canada",
+      "lat": 72.9766,
+      "long": 123.7682
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 49"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "333024704068",
+    "upiId": "4T!O&#06EKEG",
+    "userId": "user_150",
+    "amount": 1869.74,
+    "date": "2026-04-28T15:58:05.092Z",
+    "location": {
+      "ip": "213.45.186.61",
+      "country": "India",
+      "lat": -75.7232,
+      "long": 116.072
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 50"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "100758022991",
+    "upiId": "GKF&*EAZLH%U",
+    "userId": "user_151",
+    "amount": 391.41,
+    "date": "2026-04-25T16:24:35.567Z",
+    "location": {
+      "ip": "145.74.154.240",
+      "country": "Russia",
+      "lat": -27.6527,
+      "long": -161.6466
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 51"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "943866185346",
+    "upiId": "RSY^90*7LFL*",
+    "userId": "user_152",
+    "amount": 54.1,
+    "date": "2026-05-03T01:42:33.167Z",
+    "location": {
+      "ip": "138.36.92.189",
+      "country": "India",
+      "lat": -51.9749,
+      "long": 106.2071
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 52"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "904024590169",
+    "upiId": "&@2EIJ338&HI",
+    "userId": "user_153",
+    "amount": 992.51,
+    "date": "2026-04-30T21:12:16.794Z",
+    "location": {
+      "ip": "236.31.204.26",
+      "country": "India",
+      "lat": -9.3041,
+      "long": -157.5083
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 53"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "846622947108",
+    "upiId": "&W23XZRLGKVB",
+    "userId": "user_154",
+    "amount": 1111.9,
+    "date": "2026-05-04T07:00:19.250Z",
+    "location": {
+      "ip": "68.224.56.11",
+      "country": "Australia",
+      "lat": -63.7244,
+      "long": -82.9665
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 54"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "158482000693",
+    "upiId": "4CZ0I7EZ@S@Y",
+    "userId": "user_155",
+    "amount": 753.4,
+    "date": "2026-05-03T09:10:54.366Z",
+    "location": {
+      "ip": "2.145.8.250",
+      "country": "India",
+      "lat": -54.0107,
+      "long": 68.8513
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 55"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "999235110788",
+    "upiId": "ASKUEZJR%ZVS",
+    "userId": "user_156",
+    "amount": 1748,
+    "date": "2026-05-05T11:11:31.140Z",
+    "location": {
+      "ip": "14.3.213.112",
+      "country": "France",
+      "lat": -3.5588,
+      "long": -94.0524
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 56"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "249661012384",
+    "upiId": "PK43R!G!L20K",
+    "userId": "user_157",
+    "amount": 1504.25,
+    "date": "2026-05-02T08:14:11.387Z",
+    "location": {
+      "ip": "185.204.181.61",
+      "country": "Russia",
+      "lat": -71,
+      "long": 10.3189
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 57"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "702672949896",
+    "upiId": "CO0*%A4LU#UW",
+    "userId": "user_158",
+    "amount": 421.48,
+    "date": "2026-05-04T07:34:34.364Z",
+    "location": {
+      "ip": "239.132.142.132",
+      "country": "USA",
+      "lat": 40.5011,
+      "long": 159.3229
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 58"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "445339827359",
+    "upiId": "$ZH5^M0%H@*L",
+    "userId": "user_159",
+    "amount": 949.16,
+    "date": "2026-05-01T06:35:20.932Z",
+    "location": {
+      "ip": "140.21.152.37",
+      "country": "Japan",
+      "lat": 21.8507,
+      "long": 70.9726
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 59"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "326210382876",
+    "upiId": "8!IS4SY#BNYT",
+    "userId": "user_160",
+    "amount": 587.76,
+    "date": "2026-05-05T18:43:01.280Z",
+    "location": {
+      "ip": "96.58.133.152",
+      "country": "Australia",
+      "lat": -48.4818,
+      "long": -101.6427
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 60"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "936508519021",
+    "upiId": "W%1WRZOWZ3*B",
+    "userId": "user_161",
+    "amount": 1070.67,
+    "date": "2026-05-03T23:59:39.375Z",
+    "location": {
+      "ip": "167.16.3.182",
+      "country": "Australia",
+      "lat": -26.6524,
+      "long": -14.2795
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 61"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "850632226330",
+    "upiId": "LHQL3$FFSF^Q",
+    "userId": "user_162",
+    "amount": 935.89,
+    "date": "2026-04-28T00:37:03.975Z",
+    "location": {
+      "ip": "196.214.62.141",
+      "country": "USA",
+      "lat": -77.1187,
+      "long": 166.8532
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 62"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "189542121809",
+    "upiId": "IZERWVW1NY*P",
+    "userId": "user_163",
+    "amount": 1020.93,
+    "date": "2026-05-03T19:32:01.731Z",
+    "location": {
+      "ip": "190.32.40.21",
+      "country": "India",
+      "lat": -67.3549,
+      "long": 170.4717
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 63"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "995493537138",
+    "upiId": "ER6WAH^DP*$%",
+    "userId": "user_164",
+    "amount": 1217.22,
+    "date": "2026-04-28T19:17:23.311Z",
+    "location": {
+      "ip": "130.34.1.158",
+      "country": "Brazil",
+      "lat": -86.7838,
+      "long": -32.8999
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 64"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "950817077490",
+    "upiId": "HC!MY^9JPX8A",
+    "userId": "user_165",
+    "amount": 360.02,
+    "date": "2026-04-29T02:53:13.585Z",
+    "location": {
+      "ip": "46.56.250.55",
+      "country": "Canada",
+      "lat": 44.2151,
+      "long": 142.9539
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 65"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "447368462468",
+    "upiId": "$!V^XTKB&5L1",
+    "userId": "user_166",
+    "amount": 71.32,
+    "date": "2026-04-30T17:13:49.039Z",
+    "location": {
+      "ip": "88.69.253.150",
+      "country": "India",
+      "lat": -57.3614,
+      "long": 7.5994
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 66"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "081487146666",
+    "upiId": "%VLO97X8LU4^",
+    "userId": "user_167",
+    "amount": 792.1,
+    "date": "2026-04-29T16:54:54.645Z",
+    "location": {
+      "ip": "179.215.235.113",
+      "country": "UK",
+      "lat": -64.3477,
+      "long": 139.6791
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 67"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "301505357204",
+    "upiId": "6YTQM@GARJYN",
+    "userId": "user_168",
+    "amount": 7569.4,
+    "date": "2026-04-29T05:32:23.022Z",
+    "location": {
+      "ip": "135.193.243.156",
+      "country": "Brazil",
+      "lat": -30.0833,
+      "long": 99.0163
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 68"
+    },
+    "transactionType": "Debit",
+    "isFraud": true,
+    "fraudReason": "Unusual international purchase"
+  },
+  {
+    "transactionId": "213350863414",
+    "upiId": "EH%7V&JCX1W6",
+    "userId": "user_169",
+    "amount": 12437.48,
+    "date": "2026-05-07T02:47:20.254Z",
+    "location": {
+      "ip": "57.217.175.240",
+      "country": "Nigeria",
+      "lat": -1.3024,
+      "long": 71.2698
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 69"
+    },
+    "transactionType": "Subscription",
+    "isFraud": true,
+    "fraudReason": "Anomalous location and OS"
+  },
+  {
+    "transactionId": "992810466649",
+    "upiId": "B!YIKK%XN%26",
+    "userId": "user_170",
+    "amount": 1662.6,
+    "date": "2026-05-05T20:38:02.169Z",
+    "location": {
+      "ip": "89.211.233.194",
+      "country": "Japan",
+      "lat": -9.0259,
+      "long": 163.4555
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 70"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "362862909723",
+    "upiId": "RVAPGX120C#E",
+    "userId": "user_171",
+    "amount": 1330.09,
+    "date": "2026-05-04T02:05:39.866Z",
+    "location": {
+      "ip": "54.66.231.231",
+      "country": "USA",
+      "lat": 11.7139,
+      "long": 80.1037
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 71"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "259097908529",
+    "upiId": "3$RHM*XAH^2B",
+    "userId": "user_172",
+    "amount": 1378.32,
+    "date": "2026-04-30T00:16:06.181Z",
+    "location": {
+      "ip": "153.12.99.48",
+      "country": "USA",
+      "lat": -51.7374,
+      "long": 158.1949
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 72"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "093938600500",
+    "upiId": "IPCKFJ%SR&FF",
+    "userId": "user_173",
+    "amount": 1299.12,
+    "date": "2026-04-29T10:51:01.348Z",
+    "location": {
+      "ip": "162.57.115.229",
+      "country": "Russia",
+      "lat": 28.3802,
+      "long": 155.8685
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 73"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "057770288779",
+    "upiId": "L0W7SE^OD7SV",
+    "userId": "user_174",
+    "amount": 1513.33,
+    "date": "2026-05-02T22:28:19.184Z",
+    "location": {
+      "ip": "77.121.61.25",
+      "country": "Japan",
+      "lat": 61.2862,
+      "long": -14.3354
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 74"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "356359935713",
+    "upiId": "2%AA#HK$WSZ&",
+    "userId": "user_175",
+    "amount": 13183.15,
+    "date": "2026-05-01T22:22:38.455Z",
+    "location": {
+      "ip": "126.28.56.45",
+      "country": "Nigeria",
+      "lat": 60.1165,
+      "long": 59.2315
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 75"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Large transfer to new recipient"
+  },
+  {
+    "transactionId": "444891616036",
+    "upiId": "NCKG0K$0@F66",
+    "userId": "user_176",
+    "amount": 33.1,
+    "date": "2026-05-03T01:31:14.256Z",
+    "location": {
+      "ip": "174.99.16.155",
+      "country": "Canada",
+      "lat": -64.0142,
+      "long": 0.1297
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 76"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "987157150851",
+    "upiId": "RLCE7U6P^9G*",
+    "userId": "user_177",
+    "amount": 670.07,
+    "date": "2026-04-27T07:52:56.460Z",
+    "location": {
+      "ip": "88.39.120.33",
+      "country": "UK",
+      "lat": 62.2861,
+      "long": 163.2184
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 77"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "927255878343",
+    "upiId": "4BMH2Y4VY3&%",
+    "userId": "user_178",
+    "amount": 1157.21,
+    "date": "2026-04-29T21:18:59.008Z",
+    "location": {
+      "ip": "86.118.49.153",
+      "country": "China",
+      "lat": -10.9209,
+      "long": -13.093
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "iOS"
+    },
+    "merchantDetails": {
+      "category": "Food",
+      "name": "Merchant 78"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "083147594105",
+    "upiId": "B!7JTW@^F%O9",
+    "userId": "user_179",
+    "amount": 340.2,
+    "date": "2026-05-03T01:47:03.390Z",
+    "location": {
+      "ip": "174.184.126.39",
+      "country": "Russia",
+      "lat": -31.3057,
+      "long": 17.3662
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 79"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "807883752659",
+    "upiId": "DTM&8%1#JYB#",
+    "userId": "user_180",
+    "amount": 14233.68,
+    "date": "2026-05-04T14:20:21.078Z",
+    "location": {
+      "ip": "57.90.2.87",
+      "country": "Nigeria",
+      "lat": 8.6311,
+      "long": -1.9466
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 80"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Massive transfer to high-risk region"
+  },
+  {
+    "transactionId": "861631893550",
+    "upiId": "BQI&*7Z^NSCG",
+    "userId": "user_181",
+    "amount": 1831.18,
+    "date": "2026-04-26T07:02:50.694Z",
+    "location": {
+      "ip": "26.214.129.15",
+      "country": "Brazil",
+      "lat": -78.5566,
+      "long": 36.2436
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 81"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "399750332146",
+    "upiId": "2Z4W5&HNCQXU",
+    "userId": "user_182",
+    "amount": 1773.1,
+    "date": "2026-04-30T01:00:50.905Z",
+    "location": {
+      "ip": "1.150.69.182",
+      "country": "France",
+      "lat": 48.6433,
+      "long": 168.4068
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 82"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "136249469427",
+    "upiId": "67Z3504L8LQG",
+    "userId": "user_183",
+    "amount": 8101.73,
+    "date": "2026-05-04T19:14:52.378Z",
+    "location": {
+      "ip": "168.0.128.29",
+      "country": "Japan",
+      "lat": 69.0017,
+      "long": 67.6421
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 83"
+    },
+    "transactionType": "Subscription",
+    "isFraud": true,
+    "fraudReason": "Large transfer to new recipient"
+  },
+  {
+    "transactionId": "869818557413",
+    "upiId": "SS%NIWLMWQ&L",
+    "userId": "user_184",
+    "amount": 1813.32,
+    "date": "2026-05-06T04:45:01.752Z",
+    "location": {
+      "ip": "193.57.228.134",
+      "country": "Nigeria",
+      "lat": -31.4737,
+      "long": -118.8481
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 84"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "784550377943",
+    "upiId": "B%32%CGR9PE*",
+    "userId": "user_185",
+    "amount": 931.95,
+    "date": "2026-05-01T09:50:47.505Z",
+    "location": {
+      "ip": "180.10.12.104",
+      "country": "France",
+      "lat": -81.289,
+      "long": 158.334
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 85"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "149804456351",
+    "upiId": "6D*SXW7KUV5F",
+    "userId": "user_186",
+    "amount": 641.12,
+    "date": "2026-05-01T00:04:34.592Z",
+    "location": {
+      "ip": "73.218.4.130",
+      "country": "Japan",
+      "lat": -56.3433,
+      "long": 19.5401
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 86"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "249883410997",
+    "upiId": "X8R!8X35#$#!",
+    "userId": "user_187",
+    "amount": 1059,
+    "date": "2026-05-01T04:31:38.629Z",
+    "location": {
+      "ip": "193.197.68.200",
+      "country": "Nigeria",
+      "lat": -17.1387,
+      "long": 40.3674
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 87"
+    },
+    "transactionType": "Debit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "224514062580",
+    "upiId": "JYI6&7DWB5*Z",
+    "userId": "user_188",
+    "amount": 11227.42,
+    "date": "2026-04-30T04:30:12.461Z",
+    "location": {
+      "ip": "18.135.234.186",
+      "country": "Nigeria",
+      "lat": 18.3805,
+      "long": 91.6088
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 88"
+    },
+    "transactionType": "Subscription",
+    "isFraud": true,
+    "fraudReason": "Unusual international purchase"
+  },
+  {
+    "transactionId": "667994266690",
+    "upiId": "4OO!UQ9#0KOQ",
+    "userId": "user_189",
+    "amount": 734.91,
+    "date": "2026-05-02T15:56:43.351Z",
+    "location": {
+      "ip": "222.145.228.167",
+      "country": "Australia",
+      "lat": -75.1177,
+      "long": -173.5764
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 89"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "677707150714",
+    "upiId": "Z7TBU98N*HXT",
+    "userId": "user_190",
+    "amount": 12122.43,
+    "date": "2026-04-29T10:30:55.635Z",
+    "location": {
+      "ip": "106.211.46.94",
+      "country": "China",
+      "lat": 16.8312,
+      "long": 101.6172
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Retail",
+      "name": "Merchant 90"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Impossible travel speed from previous txn"
+  },
+  {
+    "transactionId": "322279167636",
+    "upiId": "I&3B4HBDW3D%",
+    "userId": "user_191",
+    "amount": 400.95,
+    "date": "2026-05-02T22:49:51.379Z",
+    "location": {
+      "ip": "237.203.227.181",
+      "country": "Canada",
+      "lat": -35.5765,
+      "long": 178.0989
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 91"
+    },
+    "transactionType": "Credit",
+    "isFraud": false
+  },
+  {
+    "transactionId": "909277373972",
+    "upiId": "@8KM9^W4@W7I",
+    "userId": "user_192",
+    "amount": 38.03,
+    "date": "2026-05-05T04:53:49.952Z",
+    "location": {
+      "ip": "11.201.69.76",
+      "country": "Nigeria",
+      "lat": -72.1122,
+      "long": -79.103
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Entertainment",
+      "name": "Merchant 92"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "143043207669",
+    "upiId": "S#PXH*552T$O",
+    "userId": "user_193",
+    "amount": 13547.82,
+    "date": "2026-04-29T14:03:59.630Z",
+    "location": {
+      "ip": "82.81.23.14",
+      "country": "Nigeria",
+      "lat": -49.8934,
+      "long": 43.3532
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 93"
+    },
+    "transactionType": "Credit",
+    "isFraud": true,
+    "fraudReason": "Large transfer to new recipient"
+  },
+  {
+    "transactionId": "472887919302",
+    "upiId": "V@SVJS72PG7^",
+    "userId": "user_194",
+    "amount": 1857.24,
+    "date": "2026-04-26T13:11:46.433Z",
+    "location": {
+      "ip": "241.34.78.197",
+      "country": "China",
+      "lat": -89.6803,
+      "long": 104.244
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Linux"
+    },
+    "merchantDetails": {
+      "category": "Finance",
+      "name": "Merchant 94"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "507526604079",
+    "upiId": "ANZ819!0KBR&",
+    "userId": "user_195",
+    "amount": 9407.61,
+    "date": "2026-05-04T21:49:57.109Z",
+    "location": {
+      "ip": "1.200.1.65",
+      "country": "USA",
+      "lat": -16.755,
+      "long": 15.433
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 95"
+    },
+    "transactionType": "Transfer",
+    "isFraud": true,
+    "fraudReason": "Massive transfer to high-risk region"
+  },
+  {
+    "transactionId": "457525693082",
+    "upiId": "MA619F74M2N7",
+    "userId": "user_196",
+    "amount": 1886.11,
+    "date": "2026-05-01T05:19:47.736Z",
+    "location": {
+      "ip": "192.247.105.233",
+      "country": "Brazil",
+      "lat": -87.064,
+      "long": -23.932
+    },
+    "deviceInfo": {
+      "deviceType": "Tablet",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 96"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "006277730972",
+    "upiId": "%$XTX&DM*KG4",
+    "userId": "user_197",
+    "amount": 712.35,
+    "date": "2026-05-04T09:33:18.275Z",
+    "location": {
+      "ip": "3.134.108.165",
+      "country": "India",
+      "lat": 83.1399,
+      "long": 160.9715
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 97"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "665468792290",
+    "upiId": "85CU2^ZVZHGO",
+    "userId": "user_198",
+    "amount": 529.94,
+    "date": "2026-04-30T04:53:05.143Z",
+    "location": {
+      "ip": "104.180.223.227",
+      "country": "Nigeria",
+      "lat": -52.3362,
+      "long": -84.6623
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "Android"
+    },
+    "merchantDetails": {
+      "category": "Electronics",
+      "name": "Merchant 98"
+    },
+    "transactionType": "Transfer",
+    "isFraud": false
+  },
+  {
+    "transactionId": "506730785577",
+    "upiId": "!DK%HHP#%JAB",
+    "userId": "user_199",
+    "amount": 1861.24,
+    "date": "2026-04-27T03:39:44.757Z",
+    "location": {
+      "ip": "137.217.232.205",
+      "country": "China",
+      "lat": -85.7469,
+      "long": 117.42
+    },
+    "deviceInfo": {
+      "deviceType": "Desktop",
+      "os": "macOS"
+    },
+    "merchantDetails": {
+      "category": "Luxury",
+      "name": "Merchant 99"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  },
+  {
+    "transactionId": "657662904324",
+    "upiId": "MZ%1FADUL3W8",
+    "userId": "user_200",
+    "amount": 1882.31,
+    "date": "2026-04-28T20:55:41.715Z",
+    "location": {
+      "ip": "111.56.29.66",
+      "country": "Canada",
+      "lat": 44.7303,
+      "long": -124.7732
+    },
+    "deviceInfo": {
+      "deviceType": "Mobile",
+      "os": "Windows"
+    },
+    "merchantDetails": {
+      "category": "Travel",
+      "name": "Merchant 100"
+    },
+    "transactionType": "Subscription",
+    "isFraud": false
+  }
+]

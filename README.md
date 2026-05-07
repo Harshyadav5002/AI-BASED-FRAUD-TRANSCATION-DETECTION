@@ -1,272 +1,120 @@
-# AI-Based Fraud Transaction Detection System
+# Sentinel AI: Advanced Fraud Transaction Detection System
 
-## Overview
+![Sentinel AI Banner](https://img.shields.io/badge/Sentinel-Fraud_Detection-indigo?style=for-the-badge&logo=ai&logoColor=white)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js)
+![Three.js](https://img.shields.io/badge/Three.js-3D-black?style=for-the-badge&logo=three.js)
 
-The AI-Based Fraud Transaction Detection System is a machine learning-powered application designed to identify suspicious and fraudulent financial transactions in real time. The system analyzes transaction patterns, user behavior, and risk indicators to detect anomalies and reduce financial fraud.
-
-This project combines Artificial Intelligence, Machine Learning, and Data Analysis techniques to improve transaction security and assist financial institutions, payment gateways, and fintech platforms.
-
----
-
-# Features
-
-* Real-time fraud transaction detection
-* Machine learning-based prediction system
-* Secure user authentication
-* Transaction risk scoring
-* Dashboard for transaction monitoring
-* Fraud analytics and reporting
-* Detection of unusual transaction behavior
-* Scalable backend architecture
-* API integration support
-* Data visualization for fraud insights
+Sentinel AI is a high-performance, machine learning-powered application designed to identify, visualize, and mitigate fraudulent financial activities in real-time. The system combines robust rule-based logic with predictive modeling and a cinematic "Slate & Indigo" aesthetic, featuring interactive 3D visualizations.
 
 ---
 
-# Tech Stack
+## 🚀 Key Features
 
-## Frontend
+### 🧠 AI-Powered Fraud Engine
+- **Real-Time Detection**: Analyzes transaction patterns and user behavior instantly.
+- **Rule-Based Analysis**: Detects high-value anomalies, rapid successive transactions, and suspicious geographic shifts.
+- **Predictive Risk Scoring**: Generates a 0-100% fraud probability with detailed reasoning.
+- **Anomaly Detection**: Identifies unusual transaction behavior using mock AI models.
 
-* React.js / HTML / CSS / JavaScript
-* Bootstrap or Tailwind CSS
+### 🎙️ Voice-Controlled Interface
+- **Hands-Free Operation**: Search for Transaction IDs or UPI IDs using voice commands.
+- **NLP Intent Recognition**: Intelligently populates fields and triggers verification scans.
 
-## Backend
+### 🌐 Immersive 3D Visualization
+- **NeuralNetwork3D**: A cinematic 3D representation of data flow and neural connections using Three.js.
+- **Dynamic System States**: Visualizes activity levels and transaction processing in real-time.
 
-* Node.js
-* Express.js
-
-## Database
-
-* MongoDB / MySQL
-
-## Machine Learning
-
-* Python
-* Scikit-learn
-* Pandas
-* NumPy
-* TensorFlow (optional)
-
-## Other Tools
-
-* Git & GitHub
-* Postman
-* JWT Authentication
+### 📊 Comprehensive Dashboard
+- **Live Alerts**: Real-time fraud notification system with actionable insights.
+- **Instant Actions**: "Block Accounts" or "Verify Safe" with a single click.
+- **Data Analytics**: Visual transaction history and risk distribution charts.
 
 ---
 
-# Project Architecture
+## 🛠️ Technology Stack
 
-```bash
-AI-Fraud-Transaction-Detection/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   ├── middleware/
-│   └── server.js
-│
-├── ml-model/
-│   ├── dataset/
-│   ├── train_model.py
-│   ├── fraud_model.pkl
-│   └── prediction.py
-│
-├── README.md
-└── package.json
-```
+### Frontend
+- **Framework**: React 19 (Vite)
+- **State Management**: Zustand
+- **Animations**: Framer Motion
+- **Visualization**: Three.js (React Three Fiber)
+- **Icons & UI**: Lucide React, Custom Slate/Indigo CSS System
+- **Charts**: Recharts
+
+### Backend
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Database**: MongoDB (Mongoose)
+- **Security**: JWT Authentication, Bcrypt Hashing
+- **Data Handling**: Multer, CSV Parser
 
 ---
 
-# How It Works
-
-1. User initiates a financial transaction.
-2. Transaction details are sent to the backend server.
-3. The AI/ML model analyzes the transaction.
-4. Risk score is generated based on transaction behavior.
-5. If fraud probability exceeds the threshold, the transaction is flagged.
-6. Admin dashboard displays suspicious activities.
+## 🔬 Machine Learning Logic
+The system evaluates transactions based on multiple risk vectors:
+1. **Transaction Velocity**: Checks for rapid successive transactions within a 5-minute window.
+2. **Value Anomaly**: Flags transactions exceeding 10,000 as high-risk anomalies.
+3. **Geographic Risk**: Monitors for suspicious location or IP changes.
+4. **Predictive Scoring**: Integrates mock AI scores to simulate advanced ML model predictions.
 
 ---
 
-# Machine Learning Model
+## 📦 Installation & Setup
 
-The fraud detection model uses supervised learning algorithms to classify transactions as:
+### Prerequisites
+- Node.js (v18+)
+- MongoDB (Local or Atlas)
 
-* Legitimate Transaction
-* Fraudulent Transaction
+### Setup Instructions
 
-## Algorithms That Can Be Used
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Harshyadav5002/AI-BASED-FRAUD-TRANSCATION-DETECTION.git
+   cd AI-BASED-FRAUD-TRANSCATION-DETECTION
+   ```
 
-* Logistic Regression
-* Random Forest
-* Decision Tree
-* XGBoost
-* Neural Networks
+2. **Backend Setup**
+   ```bash
+   cd backend
+   npm install
+   # Configure your .env file
+   npm run dev
+   ```
 
-## Model Training Process
-
-* Data Cleaning
-* Feature Engineering
-* Data Normalization
-* Model Training
-* Accuracy Evaluation
-* Fraud Prediction
-
----
-
-# Installation Guide
-
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/ai-fraud-transaction-detection.git
-```
-
-## Move Into Project Directory
-
-```bash
-cd ai-fraud-transaction-detection
-```
-
-## Install Backend Dependencies
-
-```bash
-cd backend
-npm install
-```
-
-## Install Frontend Dependencies
-
-```bash
-cd ../frontend
-npm install
-```
-
-## Run Backend Server
-
-```bash
-npm start
-```
-
-## Run Frontend
-
-```bash
-npm run dev
-```
-
-## Run Machine Learning Model
-
-```bash
-python train_model.py
-```
+3. **Frontend Setup**
+   ```bash
+   cd ../frontend
+   npm install
+   npm run dev
+   ```
 
 ---
 
-# API Endpoints
-
-## Authentication
-
-| Method | Endpoint           | Description   |
-| ------ | ------------------ | ------------- |
-| POST   | /api/auth/register | Register user |
-| POST   | /api/auth/login    | Login user    |
-
-## Transactions
-
-| Method | Endpoint                 | Description             |
-| ------ | ------------------------ | ----------------------- |
-| POST   | /api/transaction/check   | Check fraud transaction |
-| GET    | /api/transaction/history | Transaction history     |
+## 🛡️ Validation & Security
+- **Strict UPI ID Validation**: Enforces alphanumeric patterns for UPI verification.
+- **Input Sanitization**: Robust handling of all transaction data.
+- **Secure Authentication**: JWT-protected API endpoints.
 
 ---
 
-# Screenshots
-
-Add screenshots of:
-
-* Login Page
-* Dashboard
-* Fraud Detection Results
-* Analytics Charts
-* Transaction Monitoring
+## 🎨 UI/UX Design System
+- **Cinematic Experience**: Smooth transitions and micro-interactions.
+- **Glassmorphism**: Elegant card layouts with backdrop filters.
+- **Dark Mode Optimization**: Tailored for high-end financial monitoring.
 
 ---
 
-# Future Improvements
-
-* Real-time blockchain transaction monitoring
-* Advanced deep learning fraud detection
-* Multi-factor authentication
-* AI chatbot support
-* Mobile application support
-* Cloud deployment
-* Live transaction alerts
-
----
-
-# Use Cases
-
-* Banking Systems
-* FinTech Platforms
-* Online Payment Gateways
-* E-commerce Fraud Detection
-* Cryptocurrency Transaction Monitoring
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
-
-# License
-
+## 📄 License
 This project is licensed under the MIT License.
 
 ---
 
-# Author
-
-Developed by HARSH
-
----
-
-# GitHub Topics
-
-```text
-ai
-machine-learning
-fraud-detection
-fraud-transaction-detection
-artificial-intelligence
-cybersecurity
-fintech
-reactjs
-nodejs
-mongodb
-python
-scikit-learn
-anomaly-detection
-financial-security
-real-time-detection
-```
+## 👤 Author
+Developed by **HARSH**
+[GitHub: Harshyadav5002](https://github.com/Harshyadav5002)
 
 ---
 
-# Support
-
-If you like this project, give it a ⭐ on GitHub.
+### Support
+If you find this project useful, please give it a ⭐ on GitHub!
