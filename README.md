@@ -1,3 +1,11 @@
+##group member username
+1.Dev03-58
+2.Aryanyadav05
+3.Ananya12-web
+
+
+
+
 # Sentinel AI: Advanced Fraud Transaction Detection System
 
 ![Sentinel AI Banner](https://img.shields.io/badge/Sentinel-Fraud_Detection-indigo?style=for-the-badge&logo=ai&logoColor=white)
